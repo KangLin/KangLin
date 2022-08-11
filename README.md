@@ -8,9 +8,7 @@
 |:----:|:----:|
 |[![RabbitIm](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/RabbitIm)|[![RabbitRemoteControl](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/RabbitRemoteControl)|
 |[![FaceRecognizer](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/FaceRecognizer)|[![SerialPortAssistant](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/SerialPortAssistant)|
-
 |[![ChineseChessControl](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/ChineseChessControl)|[![Documents](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/Documents)|
-
 |[![LunarCalendar](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/LunarCalendar)|[![Calendar](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/Calendar)|
 |[![RabbitProxyServer](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/RabbitProxyServer)|[![QtAndroidUtils](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/QtAndroidUtils)|
 
