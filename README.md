@@ -4,7 +4,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=KangLin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/KangLin)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KangLin&langs_count=5&theme=tokyonight)](https://github.com/KangLin)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KangLin&langs_count=10&theme=tokyonight)](https://github.com/KangLin)
 
 <!--
 **KangLin/KangLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
