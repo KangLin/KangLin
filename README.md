@@ -2,6 +2,10 @@
 
 路漫漫其修远兮，吾将上下而求索。
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=KangLin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?KangLin=antenore&langs_count=5&theme=tokyonight)]()
+
 <!--
 **KangLin/KangLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
