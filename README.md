@@ -4,7 +4,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=KangLin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/KangLin)
 
-
+|PIN|
 |:----:|:----:|
 |[![RabbitIm](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/RabbitIm)|[![RabbitRemoteControl](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitRemoteControl)](https://github.com/KangLin/RabbitRemoteControl)|
 
