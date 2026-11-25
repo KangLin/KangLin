@@ -4,8 +4,8 @@
 
 ## Sponsor
 
-- :cn: 如果这些项目对你有帮助，请考虑[成为赞助者](https://github.com/sponsors/你的用户名)！
-- :us: If these projects are helpful to you, please consider [becoming a supporter](https://github.com/sponsors/你的用户名)!
+- :cn: 如果这些项目对你有帮助，请考虑[成为赞助者](https://github.com/sponsors/KangLin)！
+- :us: If these projects are helpful to you, please consider [becoming a supporter](https://github.com/sponsors/KangLin)!
 
 ## Projects
 
