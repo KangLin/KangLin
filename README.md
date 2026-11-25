@@ -2,12 +2,12 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=KangLin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/KangLin)
 
-## Sponsor
+## :us: Sponsor / :cn: 捐赠
 
 - :cn: 如果这些项目对你有帮助，请考虑[成为赞助者](https://github.com/sponsors/KangLin)！
 - :us: If these projects are helpful to you, please consider [becoming a supporter](https://github.com/sponsors/KangLin)!
 
-## Projects
+## :us: Projects ／ :cn: 项目
 
 |      |      |
 |:----:|:----:|
