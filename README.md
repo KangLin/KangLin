@@ -2,6 +2,11 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=KangLin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/KangLin)
 
+## Sponsor
+
+- :cn: 如果这些项目对你有帮助，请考虑[成为赞助者](https://github.com/sponsors/你的用户名)！
+- :us: If these projects are helpful to you, please consider [becoming a supporter](https://github.com/sponsors/你的用户名)!
+
 ## Projects
 
 |      |      |
@@ -15,13 +20,6 @@
 |[![QtAndroidUtils](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=QtAndroidUtils)](https://github.com/KangLin/QtAndroidUtils)|[![RabbitCommon](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitCommon)](https://github.com/KangLin/RabbitCommon)|
 |[![RabbitGIS](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitGIS)](https://github.com/KangLin/RabbitGIS)|[![RabbitVNC](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=RabbitVNC)](https://github.com/KangLin/RabbitVNC)|
 |[![windows_right_menu](https://github-readme-stats.vercel.app/api/pin/?username=KangLin&repo=windows_right_menu)](https://github.com/KangLin/windows_right_menu)|      |
-
-## Sponsor
-
-- :cn: 如果这些项目对你有帮助，请考虑[成为赞助者](https://github.com/sponsors/你的用户名)！
-- :us: If these projects are helpful to you, please consider [becoming a supporter](https://github.com/sponsors/你的用户名)!
-
-
 
 
 
